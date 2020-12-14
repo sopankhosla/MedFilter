@@ -21,12 +21,20 @@
 ### Citation:
 
 ```bibtex
-@inproceedings{medfilter2020,
-      title={MedFilter: Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge}, 
-      author={Sopan Khosla and Shikhar Vashishth and Jill Fain Lehman and Carolyn Rose},
-      year={2020},
-      booktitle = 	"Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
-      publisher = 	"Association for Computational Linguistics"
+@inproceedings{khosla-etal-2020-medfilter,
+    title = "{M}ed{F}ilter: {I}mproving {E}xtraction of {T}ask-relevant {U}tterances through {I}ntegration of {D}iscourse {S}tructure and {O}ntological {K}nowledge",
+    author = "Khosla, Sopan  and
+      Vashishth, Shikhar  and
+      Lehman, Jill Fain  and
+      Rose, Carolyn",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.626",
+    doi = "10.18653/v1/2020.emnlp-main.626",
+    pages = "7781--7797"
 }
 
 ```
