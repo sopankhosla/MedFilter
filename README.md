@@ -4,7 +4,7 @@
 <h4 align="center">Improving Extraction of Task-relevant Utterances through Integration of Discourse Structure and Ontological Knowledge</h4>
 <p align="center">
   <a href="https://2020.emnlp.org/"><img src="http://img.shields.io/badge/EMNLP-2020-4b44ce.svg"></a>
-  <a href="https://arxiv.org/abs/2010.02246"><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
+  <a href="https://aclanthology.org/2020.emnlp-main.626/"><img src="http://img.shields.io/badge/Paper-PDF-red.svg"></a>
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg">
   </a>
 </p>
@@ -83,7 +83,7 @@ Details about different arguments are provided [here](https://github.com/Georget
 
 Each utterance
 
-### Run utterance classifier (MedTopic)
+### Run utterance classifier
 ```
 python multi_label_seq_tagger.py --batch 16 --data_split --embed <BERT_FT_EMBED_DIR> \
 --epoch 300 --feat speaker,position,semantic --feat_cat 3,4,133 \
